@@ -3,6 +3,7 @@
 We have created our ml models but to get them to production is always tough <br />
 As with time the model degrades.For analysing the model drift we need realtime monitoring. <br />
 Evidently is such a tool/library that helps us analyse and track data and ml models for the lifecycle. <br />
+More details on evidently library [a link] (https://github.com/evidentlyai/evidently) <br />
 ## Model Scoring and model drift
 For showing model scoring and model drift we need evidently library.We will work on a regression process ml model to be deployed in hroku. <br />
 We will be using the UCI Bike sharing dataset <br />
