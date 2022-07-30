@@ -136,3 +136,15 @@ On the named tab option click on deploy branch <br />
 After all steps you will see the app is deployed.Click on view. <br />
 The final site is hosted here [a link] (https://fast7.herokuapp.com/)
 The repo which contains the final code [a link] (https://github.com/AbhiLegend/fast7) Fork the repo to follow the complete deployment to heroku <br />
+The final website as hosted we can see the different reports of it.The main page shows the index.html page <br />
+![alt text](https://github.com/AbhiLegend/ModelDrift/blob/main/model%20drift_images/9.PNG) <br />
+Now the [a link](https://fast7.herokuapp.com/data_drift_dashboard_after_week1.html)  will show the data drift dashboard after week 1 <br />
+![alt text](https://github.com/AbhiLegend/ModelDrift/blob/main/model%20drift_images/10.PNG) <br />
+Similarly the page [a link](https://fast7.herokuapp.com/regression_performance_after_week1.html) will show the regression performance. <br />
+![alt text](https://github.com/AbhiLegend/ModelDrift/blob/main/model%20drift_images/11.PNG) <br />
+As the page [a link](https://fast7.herokuapp.com/target_drift_after_week1.html) will show the report for target drift after week 1. <br />
+![alt text](https://github.com/AbhiLegend/ModelDrift/blob/main/model%20drift_images/12.PNG) <br />
+This the way the reports are generated and showed using FASTAPI <br />
+
+
+
