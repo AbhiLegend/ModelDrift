@@ -1,3 +1,30 @@
+# Evidently
+To maintain a ml models in productionwe use a tool call Evidently <br />
+Now in order to see how ml model performs in production we need analysis tool for it.For this we need to monitor and track data and ml quality the model <br /> lifecycle.The need of the hour will be such that it provide valuable input throught the time the model is working ,Evidently helps us on achieving the goal <br />
+Evidently helps us perform these different things <br />
+1.Interactive Visual Report <br />
+2.Data and model profiling <br />
+3.Real time ml monitoring <br />
+## Interactive Visual Report
+Evidently has the ability to generate interactive dashboards from the pandas dataframe or the csv files provided. <br />
+The dashboard generates an html file.The results are in the form of reports.In general 7 pre-builts reports are available <br />
+Data drift :-Find changes in the input feature distribution. <br />
+Data quality:- Statistics for the data. <br />
+Target Drift:- If the data changes in the final output.
+model performance :-Evaluates how a model behaves in general the quality of the model and model errors.<br />
+## Data and model profiling
+This generally generates JSON profiles.We can integrate with mlflow. <br />
+## Real Time monitoring
+Collects data from the model displayed with parameters.It is very important for streaming data. <br />
+
+## Resorces
+Here the more resources for Evidently tool <br />
+
+[a link] (https://evidentlyai.com/) <br />
+[a link] (https://mlops.community/learn/monitoring/evidentlyai/) <br />
+
+
+## 
 # ModelDrift
 ## Evidently and monitoring production models
 We have created our ml models but to get them to production is always tough <br />
